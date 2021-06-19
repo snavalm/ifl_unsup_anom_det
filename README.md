@@ -6,7 +6,7 @@ If you use this implementation, please cite [paper](https://arxiv.org/abs/2106.0
 ```
 @article{marimont2021implicit,
   title={Implicit field learning for unsupervised anomaly detection in medical images},
-  author={Marimont Naval, Sergio and Tarroni, Giacomo},
+  author={Naval Marimont, Sergio and Tarroni, Giacomo},
   journal={arXiv preprint arXiv:2106.05214},
   year={2021}
 }
